@@ -9,4 +9,11 @@ Today my comp froze, and when I restarted, none of my commands were available in
 
 `export PATH=/bin:/usr/bin:/usr/local/bin`
 
-And voila, I could access .bash_profile via vim. `vi ~/.bash_profile` I managed to get to a point where it prompted me to choose a version. Somehow the freezing/restart created two conflicting versions? Either way, I'm back up and running, and didn't lose any of my bash settings. (Which is great, since most of them were blessed additions by friends who know what they're actually doing). Cheers.
+And voila, I could access .bash_profile via vim. 
+
+`vi ~/.bash_profile` 
+
+I managed to get to a point where it prompted me to choose a version. Somehow the freezing/restart created two conflicting versions? Either way, I'm back up and running, and didn't lose any of my bash settings. (Which is great, since most of them were blessed additions by friends who know what they're actually doing).
+
+I also added an archive page listing to this site, snagging code from [this post from Joshua Lande](http://joshualande.com/jekyll-github-pages-poole/). Next up, learn more about Liquid templating.
+
