@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Front-end developer by way of print design, now working in strategy and project management. Working to become functionally proficient in Rails and Javascript, to more effectively lead technical projects.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amberleyjohanna@gmail.com](mailto:amberleyjohanna@gmail.com)
